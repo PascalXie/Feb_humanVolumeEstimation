@@ -1,0 +1,7 @@
+----
+------------
+step1-PCA:
+In order to estiamte the volume of human, we propose a method that was used to estiamte volumes of livestocks.
+
+The method includes two steps. In which, the first step is detecting the ground and eliminating the ground from the point cloud. We assume that the target, which corresponds to a livestock or a person in our work, was standing on the ground. Thus, if points of the ground were eliminated, the points lefted in the point cloud should correspond to the target.   
+
